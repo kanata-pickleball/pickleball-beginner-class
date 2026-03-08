@@ -1,11 +1,11 @@
 ## Weekly Class Structure
 
-1. Warm-up – 5 min
-2. Recap / questions – 5 min  
-3. Skill introduction – 15 min  
-4. Drills – 10 min  
-5. Mini gameplay – 60 min  
-6. Recap / questions – 10 min  
+1. Warm-up 
+2. Recap / questions   
+3. Skill introduction 
+4. Drills 
+5. Mini gameplay – 60 or more min  
+6. Recap / questions 
 
 
 ### Please wear eye-protection gear. For injury prevention, please bring proper indoor court shoes (no running shoes).
