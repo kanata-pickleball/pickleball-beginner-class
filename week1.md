@@ -26,7 +26,7 @@ If you prefer not to be included, please let us know.
 # Week 1 – Introduction & Fundamentals
 
 ## Goal
-Understand the game and start rallying.
+Understand the game and start doing some game.
 
 ## Topics
 - Introduction to pickleball
@@ -39,6 +39,5 @@ Understand the game and start rallying.
 - Forehand partner rally (short court)
 
 ## Game
-- Mini court  game
-
-- 
+ - Two bounce rules
+ - Scoring details
