@@ -1,4 +1,4 @@
-# Weekly Class Structure
+## Weekly Class Structure
 
 1. Warm-up – 5 min
 2. Recap / questions – 5 min  
@@ -8,7 +8,7 @@
 6. Recap / questions – 10 min  
 
 
-# Please wear eye-protection gear. For injury prevention, please bring proper indoor court shoes (no running shoes).
+### Please wear eye-protection gear. For injury prevention, please bring proper indoor court shoes (no running shoes).
 
 Here are two excellent videos worth watching:
 
